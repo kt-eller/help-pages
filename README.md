@@ -22,6 +22,19 @@ Here are some helpful links to understand Markdown:
   - Navigate to the directory where you will create your page.
   - Click "Add file" -> "Create new file"
   - Name the file in lower-case, separated by hyphens (-), with the extension ".md". Example: creating-an-account.md.
+  - Replacing the page title and link, start the file with the following text:
+```
+---
+layout: default
+title: Create an account
+permalink: /create-an-account
+---
+
+# {{ page.title }}
+
+
+... the rest of the content
+```
   - Edit the file using Markdown.
   - When finished creating the Markdown, see the steps below to submit a pull request.
 - Submit pull request
