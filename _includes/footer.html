@@ -1,3 +1,45 @@
-<footer class="site-footer h-card">
-    footer
+<footer id="site-footer">
+    <section id="footer-blue-slant">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+            <path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"></path>
+        </svg>
+    </section>
+    <section id="contact-support-container">
+        <div id="contact-support-content">
+            <h1>Still having trouble?</h1>
+            <button class="white big">Contact support</button>
+        </div>
+    </section>
+    <section id="footer-container">
+        <div id="footer-content">
+            <div class="footer-content-column">
+                <img id="footer-logo" src="https://app.broadbandhub.us/assets/Bhub_WhiteVersion2.png">
+            </div>
+            <div class="footer-content-column">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
+                <a href="#">Link 4</a>
+            </div>
+            <div class="footer-content-column">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
+                <a href="#">Link 4</a>
+            </div>
+        </div>
+    </section>
+    <section id="footer-copyright">
+        <div id="footer-copyright-content">
+            ©&nbsp;<span id="copyright-year"></span>&nbsp;Broadband Hub
+            <div class="spacer"></div>
+            <a href="https://app.broadbandhub.us/terms">Terms</a>
+            <span>&nbsp;|&nbsp;</span>
+            <a href="https://app.broadbandhub.us/privacy">Privacy</a>
+        </div>
+    </section>
 </footer>
+
+<script>
+    document.getElementById('copyright-year').innerHTML = new Date().getFullYear();
+</script>

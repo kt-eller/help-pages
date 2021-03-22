@@ -1,0 +1,29 @@
+button {
+    appearance: none;
+    outline: none;
+    border-radius: $border-radius;
+    border: none;
+    cursor:pointer;
+    padding: 8px 16px;
+        transition: transform 150ms;
+
+    &.white {
+        background: white;
+        color: $primary;
+        
+
+        &:hover {
+            background: rgba(white, .9);
+        }
+
+    }
+
+    &.big {
+        padding: 16px 24px;
+        font-size: 20px;
+    }
+
+    &:active {
+            transform: scale(.95);
+        }
+}

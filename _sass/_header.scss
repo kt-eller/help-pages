@@ -1,8 +1,36 @@
 @import "./variables";
 
 header#site-header {
-    background: $primary;
-    color: $primary-text;
-    padding:20px;
-    font-size:24px;
+    #header-container {
+        padding:20px;
+        background: $darker;
+        color: $darker-text;
+
+        #header-content {
+            max-width: $max-width;
+            margin:auto;
+            display:flex;
+            align-items: center;
+
+            #header-title {
+                font-size:24px;
+            }
+
+            a {
+                color: inherit !important;
+                display:flex;
+                align-items: center;
+                text-decoration: none;
+
+                i {
+                    margin-left:2px;
+                    font-size: 18px;
+                }
+            }
+        }
+    }
+
+    #blue-slant {
+        fill: #0176FF;
+    }
 }
