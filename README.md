@@ -18,6 +18,7 @@ Here are some helpful links to understand Markdown:
   - Add the "documentation" label.
   - Add the "Broadband Hub Help Pages - Development" project.
   - Submit the issue.
+<br>
 - Create .md file
   - Navigate to the directory where you will create your page.
   - Click "Add file" -> "Create new file"
