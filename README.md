@@ -31,6 +31,7 @@ permalink: /create-an-account
 ---
 
 # {{ page.title }}
+<br>
 
 
 ... the rest of the content
