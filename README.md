@@ -30,9 +30,12 @@ Here are some helpful links to understand Markdown:
   - Change the submit type from "Commit directly to the main branch" to "Create a new branch for this commit and start a pull request".
   - Leave the branch name as-is (the branch name will probably be something like "kylerummens-patch-1".
   - Click "Propose changes"
+  - Now you are seeing the "Open a pull request page" with your commit title.
+  - On the right, click the gear icon next to "Reviewers" and add @kylerummens.
+  - Submit the pull request
 - Link the pull request to the issue
-  - Go back to the issue that you created.
-  - On the right, click on the gear icon next to "Linked pull requests" and select the pull request you just created (the name of the pull request will be the commit title from the pull request).
+  - Navigate back to the issue that you created
+  - On the right, click on the gear icon next to "Linked pull requests" and select the pull request you just created.
 - And you're done! The new page will be reviewed then pushed to production.
 
 
