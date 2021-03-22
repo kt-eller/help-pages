@@ -28,7 +28,7 @@ Here are some helpful links to understand Markdown:
   - When ready to submit, name the commit "Created new page: <page name>".
   - Leave the commit description empty.
   - Leave the branch name as-is (the branch name will probably be something like "kylerummens-patch-1".
-  - Click "Propose changes"
+  - Click "Commit changes"
   - Now you are seeing the "Open a pull request page" with your commit title.
   - On the right, click "Request" next to "kylerummens" under "Reviewers"
   - Submit the pull request
