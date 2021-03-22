@@ -19,7 +19,7 @@ Here are some helpful links to understand Markdown:
   - Add the "Broadband Hub Help Pages - Development" project.
   - Submit the issue.
 - Create .md file
-  - Navigate to the directory where you will create your page.
+  - Navigate to the `pages` directory where you will create your page. (https://github.com/broadband-hub/help-pages/tree/main/pages)
   - Click "Add file" -> "Create new file"
   - Name the file in lower-case, separated by hyphens (-), with the extension ".md". Example: creating-an-account.md.
   - Replacing the page title and link, start the file with the following text:
