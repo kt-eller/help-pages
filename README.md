@@ -31,7 +31,7 @@ Here are some helpful links to understand Markdown:
   - Leave the branch name as-is (the branch name will probably be something like "kylerummens-patch-1".
   - Click "Propose changes"
   - Now you are seeing the "Open a pull request page" with your commit title.
-  - On the right, click the gear icon next to "Reviewers" and add @kylerummens.
+  - On the right, click "Request" next to "kylerummens" under "Reviewers"
   - Submit the pull request
 - Link the pull request to the issue
   - Navigate back to the issue that you created
