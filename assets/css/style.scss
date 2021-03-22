@@ -2,6 +2,10 @@
 # Only the main Scss file needs front matter
 ---
 
+@import "_sass/_variables.scss";
+@import "_sass/_header.scss";
+
 body {
-    //background: blue;
+    padding:0;
+    margin:0;
 }

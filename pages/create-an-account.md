@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Create an account
 permalink: /create-an-account
 ---

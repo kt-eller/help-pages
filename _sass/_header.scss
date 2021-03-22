@@ -1,0 +1,8 @@
+@import "./variables";
+
+header#site-header {
+    background: $primary;
+    color: $primary-text;
+    padding:20px;
+    font-size:24px;
+}
