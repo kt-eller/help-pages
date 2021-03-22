@@ -35,8 +35,8 @@ permalink: /create-an-account
 
 ... the rest of the content
 ```
-    - Edit the file using Markdown.
-    - When finished creating the Markdown, see the steps below to submit a pull request.
+  - Edit the file using Markdown.
+  - When finished creating the Markdown, see the steps below to submit a pull request.
 - Submit pull request
   - When ready to submit, name the commit "Created new page: <page name>".
   - Leave the commit description empty.
