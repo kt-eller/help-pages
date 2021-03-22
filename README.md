@@ -25,7 +25,7 @@ Here are some helpful links to understand Markdown:
   - Replacing the page title and link, start the file with the following text:
 ```
 ---
-layout: default
+layout: page
 title: Create an account
 permalink: /create-an-account
 ---
