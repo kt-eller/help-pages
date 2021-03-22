@@ -2,11 +2,11 @@
 # Only the main Scss file needs front matter
 ---
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
-@import "/help-pages/_sass/_variables.scss";
-@import "/help-pages/_sass/_utils.scss";
-@import "/help-pages/_sass/_header.scss";
-@import "/help-pages/_sass/_footer.scss";
-@import "/help-pages/_sass/components/_button.scss";
+@import "help-pages/_sass/_variables.scss";
+@import "help-pages/_sass/_utils.scss";
+@import "help-pages/_sass/_header.scss";
+@import "help-pages/_sass/_footer.scss";
+@import "help-pages/_sass/components/_button.scss";
 
 body {
     padding:0;
