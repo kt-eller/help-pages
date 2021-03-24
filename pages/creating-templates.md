@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creating Templates
-permalink: / creating-templates
+permalink: /creating-templates
 ---
 
 # {{ page.title }}
