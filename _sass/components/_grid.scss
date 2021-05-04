@@ -36,17 +36,24 @@
     }
 }
 
+.image-wrap {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .grid-image {
     display: block;
     flex-shrink: 0;
     margin-right: 20px;
-    width: 30px;
-    height: 20px;
-    vertical-align: middle;
+    font-size:48px !important;
+    width: 48px;
+    height: 48px;
+    
     text-align: center;
     border-style: none;
     color: blue;
-    font-size: 36px;
 }
 
 img {
