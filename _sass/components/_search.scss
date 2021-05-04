@@ -12,6 +12,19 @@
     background-color: #1652f0;
 }
 
+.home-wrapper {
+    margin-top: -150px; 
+    position: relative; 
+    z-index: 2;
+    padding-bottom: 50px;
+}
+
+@media (max-width:1200px) {
+    .home-wrapper {
+        //margin-top: 0px;
+    }
+}
+
 @media (min-width: 576px){
     .search-bar__input {
         font-size: 1.5rem;
@@ -60,6 +73,7 @@
     padding-bottom: 15px;
     padding-left: 7px;
     width: 100%;
+    outline: none;
 }
 
 .search-bar__input-wrap {
@@ -128,7 +142,8 @@ input {
     display: flex;
     flex-shrink: 0;
     margin-bottom: 0;
-    width: 20px;
+    padding-left: 18px;
+    padding-right: 18px;
 }
 
 .search-bar__wrap[data-bg-color=cbBlue] .s05-search-bar__icon {
