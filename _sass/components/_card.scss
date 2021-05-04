@@ -1,3 +1,22 @@
+@media (min-width: 768px) {
+    .card {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+}
+
+@media (min-width: 576px) {
+    .card {
+        box-shadow: 0px 5.40728px 10.8146px #9b9999;
+        padding-bottom: 50px;
+        padding-left: 35px;
+        padding-right: 35px;
+        padding-top: 40px;
+    }
+}
+
 .card {
-    padding: 12px;
+    background-color: #fff;
+    border-radius: 7px;
+    padding-top: 20px;
 }

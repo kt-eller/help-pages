@@ -12,11 +12,67 @@
 
 
             <!-- Home page content here -->
+            <div class="search-bar-wrap">
+                <div class="search-bar">
+                    <form class="search-bar__container" _lpchecked="1">
+                        <label for="search" class="search-bar__icon-wrap">
+                            <svg class="search-bar__icon" role="img" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21.001 21l-5.862-5.862" stroke="currentColor" stroke-width="2" stroke-miterlimit="10"></path><path d="M9.276 17.552A8.276 8.276 0 101 9.276a8.276 8.276 0 008.276 8.276z" stroke="currentColor" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"></path></svg>
+                        </label>
+                        <div class="search-bar__input-wrap">
+                            <input id="search" type="text" aria-label="Search Coinbase Help" class="search-bar__input" placeholder="How can we help you?" autocomplete="off" name="q">
+                        </div>
+                        <button class="search-bar__clear" type="button">
+                            <span class="search-bar__clear-content" tabindex="-1">
+                                <span>Clear</span>
+                            </span>
+                        </button>
+                    </form>
+                </div>
+            </div>
 
-            hello world
-
-
-        </div>
+            <div class="responsivegrid">
+                <div class="card">
+                    <div class="grid_wrap">
+                        <div class="grid-grid">
+                            <section class="grid-item">
+                                <img class="grid-img" src="https://help.coinbase.com/content/dam/help/category-icons/getting-started.svg">
+                                <h3 class="grid-headline">Getting Started</h3>
+                                <ul class="grid-list">
+                                    <li class="grid-list-item"><a href="https://help.broadbandhub.us/create-an-account">Create an account</a></li>
+                                    <li class="grid-list-item"><a href="https://help.broadbandhub.us/logging-in">Logging in</a></li>
+                                    <li class="grid-list-item"><a href="https://help.broadbandhub.us/logging-out">Logging out</a></li>
+                                </ul>
+                            </section>
+                            <section class="grid-item">
+                                <img class="grid-img" src="https://help.coinbase.com/content/dam/help/category-icons/managing-account.svg">
+                                <h3 class="grid-headline">Managing My Account</h3>
+                                <ul class="grid-list">
+                                    <li class="grid-list-item"><a href="https://help.broadbandhub.us/editing-your-dashboard">Editing your Dashboard</a></li>
+                                    <li class="grid-list-item"><a href="https://help.broadbandhub.us/update-your-profile-picture">Update your profile picture</a></li>
+                                </ul>
+                            </section>
+                            <section class="grid-item">
+                                <img class="grid-img" src="https://help.coinbase.com/content/dam/help/category-icons/trading-on-coinbase.svg">
+                                <h3 class="grid-headline">Using Broadband Hub</h3>
+                                <ul class="grid-list">
+                                    <li class="grid-list-item"><a href="https://help.broadbandhub.us/creating-regions">Creating Regions</a></li>
+                                    <li class="grid-list-item"><a href="https://help.broadbandhub.us/creating-templates">Creating Templates</a></li>
+                                    <li class="grid-list-item"><a href="https://help.broadbandhub.us/finding-documents">Finding Documents</a></li>
+                                    <li class="grid-list-item"><a href="https://help.broadbandhub.us/exporting-entities">Exporting Entities</a></li>
+                                </ul>
+                            </section>
+                            <section class="grid-item">
+                                <img class="grid-img" src="https://help.coinbase.com/content/dam/help/category-icons/other-topics.svg">
+                                <h3 class="grid headline">Other topics</h3>
+                                <ul class="grid-list">
+                                    <li class="grid-list-item"><a href="https://help.broadbandhub.us/making-dashboard-widgets">Making Dashboard Widgets</a></li>
+                                </ul>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
     </main>
 
     {%- include footer.html -%}
