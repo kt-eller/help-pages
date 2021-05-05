@@ -4,15 +4,28 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
 
 <script>
+
 const search = instantsearch({
   appId: 'IC99B3YK4G',
   apiKey: '7858214ee7bd176eb09488ee19d0810a',
   indexName: 'pages',
   routing: true,
   searchFunction(helper) {
-    if (helper.state.query) {
+    const container = document.querySelector('#search-hits');
+    const grid_element = document.querySelector('#grid');
+    if (helper.state.query != "") {
+      container.style.display = '';
+      grid_element.style.display = 'none';
       helper.search();
     }
+    if (helper.state.query === "") {
+      //hideHits();
+      container.style.display = 'none';
+      grid_element.style.display = '';
+      console.log('empty');
+      
+    }
+
   }
 });
 
@@ -37,12 +50,21 @@ const hitTemplate = function(hit) {
   `;
 }
 
+const emptyResults = function() {
+  return `
+    <div class="post-item">
+      <p>No results</p>
+    </div>
+  `;
+}
+
 
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-searchbar',
     placeholder: 'How can we help you?',
-    poweredBy: true // This is required if you're on the free Community plan
+    poweredBy: true, // This is required if you're on the free Community plan
+    showReset: true
   })
 );
 
@@ -50,8 +72,9 @@ search.addWidget(
   instantsearch.widgets.hits({
     container: '#search-hits',
     templates: {
-      item: hitTemplate
-    }
+      item: hitTemplate,
+      empty: emptyResults
+    },
   })
 );
 

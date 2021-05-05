@@ -31,12 +31,12 @@
 
             
 
-            <div id="search-hits" class="card results"></div>
-
             
 
+            
             <div class="responsivegrid">
-                <div class="card">
+                <div id="search-hits" class="card results"></div>
+                <div class="card" id="grid">
                     <div class="grid_wrap">
                         <div class="grid-grid">
                             <section class="grid-item">
@@ -81,6 +81,7 @@
                     </div>
                 </div>
             </div>
+            
             
     </main>
     {% include algolia.html %}
