@@ -29,6 +29,12 @@ sass:
   style: compressed
 #url: "https://help.broadbandhub.us" # the base hostname & protocol for your site, e.g. http://example.com
 
+algolia:
+  application_id: IC99B3YK4G
+  index_name: pages
+  search_only_api_key: 7858214ee7bd176eb09488ee19d0810a
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

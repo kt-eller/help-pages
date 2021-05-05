@@ -12,23 +12,28 @@
 
 
             <!-- Home page content here -->
+
             <div class="search-bar-wrap">
                 <div class="search-bar">
                     <form class="search-bar__container" _lpchecked="1">
+                        <!--
                         <label for="search" class="search-bar__icon-wrap">
                             <span class="material-icons">search</span>
                         </label>
+                        -->
                         <div class="search-bar__input-wrap">
-                            <input id="search" type="text" aria-label="Search Coinbase Help" class="search-bar__input" placeholder="How can we help you?" autocomplete="off" name="q">
+                            <!--<input id="search" type="text" aria-label="Search Coinbase Help" class="search-bar__input" placeholder="How can we help you?" autocomplete="off" name="q">-->
+                            <div class="search-bar__input" id="search-searchbar"></div>
                         </div>
-                        <button class="search-bar__clear" type="button">
-                            <span class="search-bar__clear-content" tabindex="-1">
-                                <span>Clear</span>
-                            </span>
-                        </button>
                     </form>
                 </div>
             </div>
+
+            
+
+            <div id="search-hits" class="card results"></div>
+
+            
 
             <div class="responsivegrid">
                 <div class="card">
@@ -78,6 +83,7 @@
             </div>
             
     </main>
+    {% include algolia.html %}
 
     {%- include footer.html -%}
 
