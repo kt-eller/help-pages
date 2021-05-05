@@ -5,6 +5,21 @@ permalink: /creating-templates
 ---
 
 # {{ page.title }}
+Templates are a great way to easily filter your searches. Templates allow you to declare which fields you're interested in researching and limit your searches to those states. This prevents unncessary data from cluttering search results. Templates are saved to your account to allow you to quickly search the same queries.
+
+Possible filters offered through Templates:
+- Search term
+- Funding Year
+- Category of Service
+- Region
+- States
+- Ordering 
+    - Order By
+    - Order Direction
+- Entity Types
+- Allowable Contract Date
+- Created Date
+
 <br>
 
 ## Getting Started 

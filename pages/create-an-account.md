@@ -10,24 +10,24 @@ permalink: /create-an-account
 ## 1. Open [Broadband Hub](https://app.broadbandhub.us/login)
 <br>
 
-### 2. Select *"Create an Account"*
-i. On the bottom of the page in the center
+## 2. Select *"Create an Account"*
+- On the bottom of the page in the center
 <br>
 
-### 3. Put in the information that it asks you for
+## 3. Put in the information that it asks you for
 - Information it asks is for: email, password, and to resubmit your password 
 <br>
 
-### 4. Select *"Submit"*
+## 4. Select *"Submit"*
 <br>
 
-### 5. The website will direct you to a new page, fill out your full name and update the profile picture
+## 5. The website will direct you to a new page, fill out your full name and update the profile picture
 <br>
 
-### 6. Select *"Next"*
+## 6. Select *"Next"*
 <br>
 
-### 7. Enter organization code or make New Organization
+## 7. Enter organization code or make New Organization
 i. If you make a new organization select *"Create New Organization"*
 <br>
 ii. Create an organization name
