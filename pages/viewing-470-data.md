@@ -5,11 +5,11 @@ permalink: /viewing-470-data
 ---
 
 # {{ page.title }}
-Viewing Form 470 and Form 471 data is one of the major advantages of BroadbandHub. Using a modern design, Broadband Hub has optimized the process to make the information easier to view and understand. This page will help you locate specific Form 470s and navigate their details page to streamline your data collection.\
+Viewing Form 470 and Form 471 data is one of the major advantages of BroadbandHub. Using a modern design, BroadbandHub has optimized the process to make the information easier to view and understand. This page will help you locate specific Form 470s and navigate their details page to streamline your data collection.\
 <br>
 
 ## Finding the Form 470 Page
-The first step is to locate the 470 Form that you're looking for. You can do this by using Broadband Hub's Form 470 Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
+The first step is to locate the 470 Form that you're looking for. You can do this by using BroadbandHub's Form 470 Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
 <br>
 **Search Instructions**
 1. Click on the 470 Data tab on the left-hand side of the page
