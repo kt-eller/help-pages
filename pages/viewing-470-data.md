@@ -5,11 +5,11 @@ permalink: /viewing-470-data
 ---
 
 # {{ page.title }}
-Viewing Form 470 and Form 471 data is one of the major advantages of Broadband Hub. Using a modern design, Broadband Hub has optimized the process to make the information easier to view and understand. This page will help you locate specific Form 470s and navigate their details page to streamline your data collection.\
+Viewing Form 470 and Form 471 data is one of the major advantages of BroadbandHub. Using a modern design, Broadband Hub has optimized the process to make the information easier to view and understand. This page will help you locate specific Form 470s and navigate their details page to streamline your data collection.\
 <br>
 
 ## Finding the Form 470 Page
-The first step is to locate the 470 Form that you're looking for. You can do this by using Broadband Hub's Form 470 Data search page. This page has many filters allowing for quick location of the desired forms. Broadband Hub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
+The first step is to locate the 470 Form that you're looking for. You can do this by using Broadband Hub's Form 470 Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
 <br>
 **Search Instructions**
 1. Click on the 470 Data tab on the left-hand side of the page
@@ -56,7 +56,7 @@ Look for the desired form and click on it to go to its Form 470 Page.
 ## Navigating the Form 470 Page
 The Form 470 Page is the optimal place to quickly view key information about the Form 470. In the upper-right, there is a way to toggle between the Original and Current form of the 470. There are 5 key tabs in order to quickly find the desired information. 
 
-#### Basic Information
+### Basic Information
 The Basic Information tab is the place to view the information about the form and the entity that filed the request. It also shows the Form 470 application number.
 
 Basic Information contains:
@@ -98,11 +98,11 @@ Basic Information contains:
 - State and Local Procurement Restrictions
     - Yes/No
 
-#### Consultants
+### Consultants
 Displays the Consultants listed on the Form 470.
 
-#### Documents
-This tab contains the document from the official USAC website. This is useful for people and organizations that want to see information that is not selected as really important by Broadband Hub. This tab also includes the RFPs and Associated Form 471 Documents for Form 470 applications that have already been decided.
+### Documents
+This tab contains the document from the official USAC website. This is useful for people and organizations that want to see information that is not selected as really important by BroadbandHub. This tab also includes the RFPs and Associated Form 471 Documents for Form 470 applications that have already been decided.
 
 Documents contains:
 - Original Form 470
@@ -114,7 +114,7 @@ Documents contains:
 - Associated Form 471 Documents
     - Click `View Document` to go to the official USAC website and view the Original Form 471.
 
-#### Category 1 & Category 2
+### Category 1 & Category 2
 These tabs display the information of Service Requests and Narrative given in the Form 470 data. If a Form 470 is only a Category 1 or Category 2, there will not be information listed in the other category. These lists describe the services that each entity is looking to fulfill, making it useful for service providers to quickly view important information about the Form 470. Each Category has different Service Requests information given.
 
 **Category 1**
