@@ -16,22 +16,25 @@
             
             <div class="form">
                 <div class="email">
-                    <p><b>Email:</b></p>
-                    <input type="text" id="email" name="email">
+                    <label class="form-label">Email address associated with your BroadbandHub account</label>
+                    <input type="text" id="email" name="email" placeholder="Email">
                 </div>
                 <div class="title">
-                    <p><b>Title:</b></p>
+                    <label class="form-label">Subject</label>
                     <input type="text" id="title" name="title">
                 </div>
                 <div class="description">
-                    <p><b>Description:</b></p>
+                    <label class="form-label">Message</label>
                     <textarea type="text" id="description" name="description" rows="3" ></textarea>
+                    <p class="disclaimer">To protect your privacy, please ensure you are not providing any personal identifying information when submitting this request.</p>
                 </div>
             </div>
             <div class="button-container">
+                <!--
                 <div class="button-header">
                     <label class="form-label button-label"><b>Send email</b></label>
                 </div>
+                -->
                 <button class="button email-button send-email" id="send-email" onclick="submitPress()">Send email</button>
                 <div class="button-footer">
                     <label class="form-label button-label"><b id="button-footer-text"></b></label>
@@ -112,16 +115,22 @@
 </script>
 
 <style>
+    .form {
+        margin-top: 30px;
+    }
+
     #email {
-        height: 30px;
+        height: 50px;
         width: 75%;
         border: 1px solid #b7c2cc;
+        font-size: 1.25rem;
     }
 
     #title {
-        height: 30px;
+        height: 50px;
         width: 75%;
         border: 1px solid #b7c2cc;
+        font-size: 1.25rem;
     }
 
     #description {
@@ -133,8 +142,38 @@
         padding-top: 15px;
         margin-top: 0px;
         margin-bottom: 0px;
-        height: 80px;
+        height: 100px;
         width: 75%;
+        font-size: 1rem;
+    }
+
+    .description, .email, .title {
+        margin-top: 20px;
+    }
+
+    .form-label {
+        align-self: flex-start;
+        color: black;
+        display: block;
+        font-weight: 500;
+        line-height: 1.4285714286;
+        margin-bottom: 4px;
+        max-width: 450px;
+        padding-right: 0;
+        padding-top: 0;
+        text-align: left;
+        width: 90%;
+    }
+    
+    .disclaimer {
+        margin-top: 5px;
+        margin-bottom: 0;
+        box-sizing: border-box;
+        color: #b7c2cc;
+        font-size: 0.8125rem;
+        max-width: 60%;
+        text-align: left;
+        
     }
 
     .button-container {
