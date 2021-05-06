@@ -6,15 +6,17 @@
 <body>
 
     {%- include header.html -%}
+    {%- include search-bar.html -%}
 
     <main class="page-content" aria-label="Content">
-        <div class="card" id="search-hits"></div>
+        <div class="card home-wrapper" id="search-hits"></div>
         <div class="wrapper card home-wrapper" id="content">
             {{ content }}
         </div>
     </main>
 
     {% include algolia.html %}
+    {%- include contact-button.html -%}
     {%- include footer.html -%}
 
 </body>

@@ -8,7 +8,6 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-        <div class="card" id="search-hits"></div>
         <div class="wrapper card home-wrapper" id="content">
             <h1>We're here to help</h1>
             <p>The <a href="https://help.broadbandhub.us/">BroadbandHub Help Center</a> has answers to most questions. 
@@ -17,7 +16,7 @@
             <div class="form">
                 <div class="email">
                     <label class="form-label">Email address associated with your BroadbandHub account</label>
-                    <input type="text" id="email" name="email" placeholder="Email">
+                    <input type="text" id="email" name="email">
                 </div>
                 <div class="title">
                     <label class="form-label">Subject</label>
@@ -43,7 +42,6 @@
         </div>
     </main>
 
-    {% include algolia.html %}
     {%- include footer.html -%}
 
     <script src="https://www.gstatic.com/firebasejs/8.5.0/firebase-app.js"></script>
@@ -145,6 +143,10 @@
         height: 100px;
         width: 75%;
         font-size: 1rem;
+    }
+
+    #email, #title, #description {
+        padding-left: 16px;
     }
 
     .description, .email, .title {
