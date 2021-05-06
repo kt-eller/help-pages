@@ -3,11 +3,6 @@
     margin-right: auto;
     max-width: 1000px;
     width: 100%;
-    padding-bottom: 30px;
-}
-
-.search-bar-wrap[data-bg-color=cbBlue] {
-    background-color: $primary;
 }
 
 .search-wrapper {
@@ -18,13 +13,11 @@
 }
 
 .home-wrapper {
-    margin-top: -100px; 
+    margin-top: -70px; 
     position: relative; 
     z-index: 2;
     padding-bottom: 50px;
 }
-
-
 
 @media (min-width: 576px){
     .search-bar__input {
@@ -62,6 +55,10 @@
     color: #fff;
 }
 
+.search-bar-wrap[data-bg-color=cbBlue] {
+    background-color: $primary;
+}
+
 .search-bar__input {
     border: 0;
     font-size: 1.125rem;
@@ -88,6 +85,10 @@
     color: #fff;
 }
 
+.search-bar__wrap[data-bg-color=cbBlue] .s05-search-bar__icon {
+    color: #1652f0;
+}
+
 input {
     text-rendering: auto;
     color: -internal-light-dark(black, white);
@@ -108,54 +109,4 @@ input {
     border-style: inset;
     border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
     border-image: initial;
-}
-
-.search-bar__wrap {
-    padding-bottom: 30px;
-    background-color: #1652f0;
-    color: #fff;
-}
-
-.search-bar__icon-wrap {
-    align-items: center;
-    color: #708599;
-    cursor: pointer;
-    display: flex;
-    flex-shrink: 0;
-    margin-bottom: 0;
-    padding-left: 18px;
-    padding-right: 18px;
-}
-
-.search-bar__wrap[data-bg-color=cbBlue] .s05-search-bar__icon {
-    color: #1652f0;
-}
-
-.search-bar__clear--active {
-    opacity: 1;
-    visibility: visible;
-}
-
-button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled) {
-    cursor: pointer;
-}
-
-.search-bar__clear {
-    border: none;
-    margin: 0;
-    padding: 0;
-    width: auto;
-    overflow: visible;
-    background-color: transparent;
-    color: inherit;
-    font: inherit;
-    line-height: 1.15;
-    align-items: center;
-    display: flex;
-    font-size: 0;
-    justify-content: center;
-    opacity: 0;
-    transition: opacity 300ms ease-in-out;
-    visibility: hidden;
-    width: 30px;
 }
