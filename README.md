@@ -1,4 +1,4 @@
-# Broadband Hub - Help Pages
+# BroadbandHub - Help Pages
 
 ## Markdown
 
@@ -16,7 +16,7 @@ Here are some helpful links to understand Markdown:
   - Add comments describing what the purpose of the page should be and/or what the contents should consist of.
   - Assign the issue to yourself and optionally anyone else who is working on help pages (except @kylerummens).
   - Add the "documentation" label.
-  - Add the "Broadband Hub Help Pages - Development" project.
+  - Add the "BroadbandHub Help Pages - Development" project.
   - Submit the issue.
 - Create .md file
   - Navigate to the `/pages` directory where you will create your page. (https://github.com/broadband-hub/help-pages/tree/main/pages)
