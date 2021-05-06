@@ -12,7 +12,7 @@ const search = instantsearch({
   routing: true,
   searchFunction(helper) {
     const container = document.querySelector('#search-hits');
-    const grid_element = document.querySelector('#grid');
+    const grid_element = document.querySelector('#content');
     if (helper.state.query != "") {
       container.style.display = '';
       grid_element.style.display = 'none';
@@ -22,7 +22,7 @@ const search = instantsearch({
       //hideHits();
       container.style.display = 'none';
       grid_element.style.display = '';
-      console.log('empty');
+      //console.log('empty');
       
     }
 
