@@ -10,16 +10,16 @@ permalink: /working-with-471-data
 Learning to use the Form 471 search page is important to quickly find the desired data. BroadbandHub comes equipped with many search filters that make it easy to quickly find the documents that you want. You can set custom one-time filters or create and save search templates and regions that will allow you to do the same searches effortlessly over time. 
 <br>
 
-## Finding the FRN Page
+## Using the Form 471 Data Search Page
 The first step is to locate the 471 Form that you're looking for. You can do this by using BroadbandHub's 471 Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
 <br>
 **Search Instructions**
-1. Click on the 471 Data tab on the left-hand side of the page
+1. Click on the `471 Data` tab on the left-hand side of the page
 2. Search for a Form 471 by applying filters
     - Search term: Search by Form 471 name
     - Search templates: Use custom templates to search for previously-saved data
     - Funding years: Select the years of the form
-    - Category of service: Select the type of service asked by the form.
+    - Category of service: Select the type of service asked by the form
         - Category 1
         - Category 2
     - States: Limit the search to forms from specific states
