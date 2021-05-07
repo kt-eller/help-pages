@@ -14,6 +14,16 @@
                 We're happy to lend a hand, but response times may take longer than normal.</p>
             
             <div class="form">
+                <div class="user-names">
+                    <div class="first-name">
+                        <label class="form-label">First Name</label>
+                        <input type="text" id="first-name" name="first-name">
+                    </div>
+                    <div class="last-name">
+                        <label class="form-label">Last Name</label>
+                        <input type="text" id="last-name" name="last-name">
+                    </div>
+                </div>
                 <div class="email">
                     <label class="form-label">Email address associated with your BroadbandHub account</label>
                     <input type="text" id="email" name="email">
@@ -69,10 +79,12 @@
 
     function submitPress() {
         var footerText = document.getElementById('button-footer-text');
+        var firstName = document.getElementById('first-name').value;
+        var lastName = document.getElementById('last-name').value;
         var email = document.getElementById('email').value;
         var title = document.getElementById('title').value;
         var description = document.getElementById('description').value;
-        if (email === '' || title === '' || description === '') {
+        if (email === '' || title === '' || description === '' || firstName === '' || lastName === '') {
             footerText.innerHTML = "Error: Empty response field."
         }
         else {
@@ -81,12 +93,16 @@
                 footerText.innerHTML = "";
                 // Add information to help-pages-contact-form collection
                 db.collection("help-pages-contact-form").add({
+                    first_name: firstName,
+                    last_name: lastName,
                     email: email,
                     title: title,
                     description: description
                 })
                 .then((docRef) => {
                     footerText.innerHTML = "Submitted email.";
+                    document.getElementById('first-name').value = '';
+                    document.getElementById('last-name').value = '';
                     document.getElementById('email').value = '';
                     document.getElementById('title').value = '';
                     document.getElementById('description').value = '';
@@ -117,14 +133,7 @@
         margin-top: 30px;
     }
 
-    #email {
-        height: 50px;
-        width: 75%;
-        border: 1px solid #b7c2cc;
-        font-size: 1.25rem;
-    }
-
-    #title {
+    #email, #title, #first-name, #last-name {
         height: 50px;
         width: 75%;
         border: 1px solid #b7c2cc;
