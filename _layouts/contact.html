@@ -91,13 +91,15 @@
             footerText.innerHTML = "";
             if (validateEmail(email)) {
                 footerText.innerHTML = "";
+                var date = new Date;
                 // Add information to help-pages-contact-form collection
                 db.collection("help-pages-contact-form").add({
                     first_name: firstName,
                     last_name: lastName,
                     email: email,
                     title: title,
-                    description: description
+                    description: description,
+                    timestamp: date
                 })
                 .then((docRef) => {
                     footerText.innerHTML = "Submitted email.";
