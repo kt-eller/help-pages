@@ -60,4 +60,7 @@ Run the following command to update the Algolia Search database:
 ```
 ALGOLIA_API_KEY='your_admin_api_key' bundle exec jekyll algolia
 ```
-
+## Run Jekyll in development mode
+```
+bundle exec jekyll serve
+```
