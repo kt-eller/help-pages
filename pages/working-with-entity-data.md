@@ -33,7 +33,12 @@ The list displays important information to allow for quick viewing and selection
 - Parent Entity Number
 - Last Updated
 
-Look for the desired form and click on it to go to its Form 470 Page.
+Look for the desired form and click on it to create a drop-down with downloadable files about the entity. You can also view its details page.
+- Export Entity Map
+- Export Entity 470 History
+- Export Entity 471 History
+
+Click `View Entity Details` to go to its Entity Details Page.
 
 <br>
 
