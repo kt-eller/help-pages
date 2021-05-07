@@ -5,6 +5,8 @@ permalink: /working-with-470-data
 ---
 
 # {{ page.title }}
+*See also: [Viewing 470 Data](https://help.broadbandhub.us/viewing-470-data)*
+
 Learning to use the Form 470 search page is important to quickly find the desired data. BroadbandHub comes equipped with many search filters that make it easy to quickly find the documents that you want. You can set custom one-time filters or create and save search templates and regions that will allow you to do the same searches effortlessly over time. 
 <br>
 
