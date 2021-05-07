@@ -55,7 +55,7 @@ permalink: /create-an-account
 
 ## Editing existing pages
 
-## Updating the Search
+## Updating the search
 Run the following command to update the Algolia Search database:
 ```
 ALGOLIA_API_KEY='your_admin_api_key' bundle exec jekyll algolia
