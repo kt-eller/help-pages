@@ -11,30 +11,21 @@ permalink: /create-an-account
 <br>
 
 ## 2. Select *"Create an Account"*
-- On the bottom of the page in the center
 <br>
 
-## 3. Put in the information that it asks you for
-- Information it asks is for: email, password, and to resubmit your password 
+## 3. Fill in your e-mail and create a password, then click *"Submit"*
 <br>
 
-## 4. Select *"Submit"*
+## 4. Fill out your full name and update the profile picture, then click *"Next"*
 <br>
 
-## 5. The website will direct you to a new page, fill out your full name and update the profile picture
+## 5. Enter organization code or make New Organization
++ If you make a new organization select *"Create New Organization"*
 <br>
-
-## 6. Select *"Next"*
++ Create an organization name
 <br>
-
-## 7. Enter organization code or make New Organization
-i. If you make a new organization select *"Create New Organization"*
++ Select type of payment plan desired
 <br>
-ii. Create an organization name
++ fill out card information and if you have a promo code
 <br>
-iii. Select type of payment plan desired
-<br>
-iv. fill out card information and if you have a promo code
-<br>
-v. Select *"Create Organization"*
-
++ Select *"Create Organization"*
