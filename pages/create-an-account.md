@@ -20,8 +20,8 @@ permalink: /create-an-account
 <br>
 
 ## 5. Enter organization code or make New Organization
-+ If you make a new organization select *"Create New Organization"*
++ If you make a new organization select ***"Create New Organization"***
 + Create an organization name
 + Select type of payment plan desired
 + fill out card information and if you have a promo code
-+ Select *"Create Organization"*
++ Select ***"Create Organization"***
