@@ -12,12 +12,11 @@ permalink: /finding-documents
 <br>
 
 ### 2. Click on the correct Entities from the selection given
-- There can be multiple options, but there is information to the side of it that will distinguish the one you want
-- When you select the Entities, you will be redirected to the page where all the Entities information will be  
-- When using a 471 search you have to click the Enities and then *"View RFP Details"*
+- There can be multiple options, pay attention to Category of Service and State to select the correct Entity  
+- When using a *"471 search"* you have to click the Entity and then click *"View FRN Details"*
 <br>
 
-### 4. Select the *"Documents"* tab
+### 3. Select the *"Documents"* tab
 - Types of documents
     - Form 470
         - Original and current
