@@ -8,9 +8,6 @@ permalink: /logging-out
 <br>
 
 
-### 1. Open Broadband Hub
-### 2. Click on Settings 
-- Settings is on the left side and the last one in the column
+### 1. Click on *"Settings"* from the Side Navigator
  
-### 3. Click *logout* 
-- Under the profile picture and name
+### 2. Click *"logout"*
