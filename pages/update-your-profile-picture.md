@@ -8,17 +8,14 @@ permalink: /update-your-profile-picture
 
 ### 1. Login to your account
 
-### 2. Click on settings
-- Settings tab on the left-side of the page
+### 2. Click on *"Settings"* from the Side Navigator
 
-### 3. Click on the pencil button on the picture
-- Right side of the page
-- Bottom-right of current profile picture
+### 3. Under the *"Profile"* tab, click on the pencil
 
-### 4. Choose your profile picture
-- Choose from one of the defaults or upload your own
+### 4. Upload your own .jpeg, or pick a default image
 - Upload your own:
     - Click on the Upload arrow (top-left icon)
     - Select the image file from your computer
     - Click Open
-- Click Save
+
+### 5. Click *"Save"*
