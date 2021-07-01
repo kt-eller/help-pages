@@ -9,10 +9,9 @@ Regions are a great way to easily filter your searches. Regions allow you to dec
 
 <br>
 
-### 1. Go to [Broadband Hub](https://app.broadbandhub.us/dashboard)
-### 2. On the Side Navigator, pick either 470 data, 471 data, or Entity data
-### 3. Above the search and filters section, click *"Create Region"*
-### 4. Name your new region
-### 5. Make your region visible to your organization or keep it hidden
+### 1. On the Side Navigator, pick either 470 data, 471 data, or Entity data
+### 2. Above the search and filters section, click *"Create Region"*
+### 3. Name your new region
+### 4. Make your region visible to your organization or keep it hidden
 ### 5. Select the states desired for the region
 ### 6. *"Click Submit"*
