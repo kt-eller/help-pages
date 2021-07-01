@@ -10,4 +10,4 @@ permalink: /logging-out
 
 ### 1. Click on *"Settings"* from the Side Navigator
  
-### 2. Click *"logout"*
+### 2. Click *"Logout"*
