@@ -12,7 +12,7 @@ Viewing Form 470 and Form 471 data is one of the major advantages of BroadbandHu
 The first step is to locate the 470 Form that you're looking for. You can do this by using BroadbandHub's Form 470 Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
 <br>
 **Search Instructions**
-1. Click on the 470 Data tab on the left-hand side of the page
+1. Click on *"Form 470 Data"* from the side navigator
 2. Search for a Form 470 by applying filters
     - Search term: Search by Form 470 name
     - Search templates: Use custom templates to search for previously-saved data
