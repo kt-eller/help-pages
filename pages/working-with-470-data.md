@@ -14,89 +14,41 @@ Learning to use the Form 470 search page is important to quickly find the desire
 The first step is to locate the 470 Form that you're looking for. You can do this by using BroadbandHub's Form 470 Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
 <br>
 **Search Instructions**
-1. Click on the `470 Data` tab on the left-hand side of the page
+1. Click on the 470 search tab on the left-hand side of the page
 2. Search for a Form 470 by applying filters
-    - Search term: Search by Form 470 name
-    - Search templates: Use custom templates to search for previously-saved data
+    - Entity name/number
+    - Application number
+    - Consultant name/number
     - Funding years: Select the years of the form
     - Category of service: Select the type of service asked by the form.
         - Category 1
         - Category 2
         - Category 1&2
     - States: Limit the search to forms from specific states
-    - Entity types: Limit the search to entities of a specific type
-        - School
-        - School District
-        - Library
-        - Library System
-        - Consortium
-        - Non-Instructional Facility (Nif)
     - Dates: Enter date ranges for various fields of the form
-        - Allowable Contract Date
         - Created Date
         - Certified Date
-        -Last Modified
+        - Allowable Contract Date
+        - Last Modified
     - Order By: Personalize the order in which forms appear
-3. Click the Apply Filters button to search for the form
 
 **Finding the Form 470**\
 After applying filters, the search function will display a list of Form 470s that best suit the filters.
 The list displays important information to allow for quick viewing and selection.
 - Category of Service
 - State
-- Funding Year
+- Application Number
 - Applicant
 - Form Nickname
 - Allowable Contract Date
-- Certified Date
+- Created Date
 - RFPs
 
 Look for the desired form and click on it to go to its Form 470 Page.
 
-## Creating a Region
+## Search by Region
 *See also: [Creating Regions](https://help.broadbandhub.us/creating-regions)*
 
-You can create a region to always search only for desired states.
 
-On the Form 470 Data page:
-1. Click the `Create Region` button above the search filters.
-2. Give the Region a name.
-3. Toggle organization visibility.
-4. Select the states that you want to search for.
-5. Click `Submit`
-
-### Search by Region
-To search by a region:
-1. Click on the `States` filter.
-2. Find the desired Region on the left-hand side.
-3. Click `Apply Filters`
-
-## Creating a Template
+## Search by Template
 *See also: [Creating Templates](https://help.broadbandhub.us/creating-templates)*
-
-You can create a template to always search only for desired filters.
-
-On the Form 470 Data page:
-1. Click the `Create 470 Template` button above the search filters.
-2. Give the Template a name.
-3. Toggle organization visibility.
-4. Fill in the desired fields:
-    - Search term
-    - Funding year
-    - Category of service
-    - Region
-    - Show states
-    - Order by
-    - Order direction
-    - Entity types
-    - Allowable contract date
-    - Created date
-    - Certified date
-    - Last modified
-5. Click `Submit`
-
-### Search by Template
-To search by a template:
-1. Click on the `Search Templates` field to the left of the `Apply Filters` field
-2. Find the desired template.
-3. Click `Apply Filters`

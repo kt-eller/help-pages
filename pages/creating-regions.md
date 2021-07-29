@@ -9,9 +9,12 @@ Regions are a great way to easily filter your searches. Regions allow you to dec
 
 <br>
 
-### 1. On the Side Navigator, pick either 470 data, 471 data, or Entity data
-### 2. Above the search and filters section, click *"Create Region"*
-### 3. Name your new region
-### 4. Make your region visible to your organization or keep it hidden
-### 5. Select the states desired for the region
-### 6. *"Click Submit"*
+### 1. On the Side Navigator, pick either Form 470 Search or Form 471 Search
+### 2. Click on the search filter titled *"State"*
+![Regions Example](./assets/images/regions/StateOutline.png)
+### 3. Select all the states you want to include in the region
+![Regions Chat Example](./assets/images/regions/StatesSelected.png)
+### 4. Select *"Save as new region"* at the bottom of the pop-up
+![Regions Chat Example](./assets/images/regions/SaveNewRegion.png)
+### 5. Give the region a name and select whether or not to make it visible to your organization
+### 5. Click *"Save"*

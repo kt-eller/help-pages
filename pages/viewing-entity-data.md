@@ -12,38 +12,18 @@ Viewing Entity data is one of the major advantages of BroadbandHub. Using a mode
 The first step is to locate the Entity that you're looking for. You can do this by using BroadbandHub's Entity Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
 <br>
 **Search Instructions**
-1. Click on the `Entity Data` tab on the left-hand side of the page
-2. Search for an Entity by applying filters
-    - Entity is a 470 applicant
-    - Entity is a 471 applicant
-    - States
-    - Entity types
-    - Order by
-3. Click the Apply Filters button to search for the entity
+1. Click on the Applicant search on the left-hand side of the page or open it using **/**
+2. Search for the Applicant by name
+4. Click on the desired entity\
 
 **Finding the Entity**\
 After applying filters, the search function will display a list of entities that best suit the filters.
-The list displays important information to allow for quick viewing and selection.
-- Type
-- 470
-- 471
-- State
-- Entity Name
-- Entity Number
-- Parent Entity Number
-- Last Updated
-
-Look for the desired form and click on it to create a drop-down with downloadable files about the entity. You can also view its details page.
-- Export Entity Map
-- Export Entity 470 History
-- Export Entity 471 History
-
-Click `View Entity Details` to go to its Entity Details Page.
+The list displays important information to allow for quick viewing and selection. Click on the entity you wish to research.
 
 <br>
 
 ## Navigating the Entity Page
-The Entity Page is the optimal place to view the information about an entity. 
+The Entity Page is the optimal place to view the information about an entity or applicant. 
 Depending on the type of entity there are a different number of tabs. All entity types have a Basic Information tab and an Entities tab.
 
 ### Basic Information
@@ -86,11 +66,17 @@ Basic Information Contains:
     - Square Footage
     - School Type
 
+### Form 470s
+This tab organizes the entity's past Form 470s by year. Click on a form to go to its Form 470 Details page.
+
+### Form 471s
+*See also: [View Entity 471 History](https://help.broadbandhub.us/view-entity-471-history#viewing-471-data)*
+
+This tab organizes the entity's past Form 471s by year. Click on a form to view its information in a drop-down. Click `View FRN Details` to go to its FRN Details page.
+
 ### Entities
 The Entities page is the place to see the other entities associated with the main Entity. This includes a list of child entities and a map to show the location of each entity.
 
-- Google Maps
-    - Associated entities are pin-pointed on the map. Click on a pin to view that entity's information.
 - Child Entities
     - List of child entities of the organization.
     - Has various columns to help locate the desired entity:
@@ -113,14 +99,6 @@ This tab lists the contacts that are given in the Form 470 and 471 that have bee
     - General Contact
     - Authorized Contact
 
-### Form 470s
-This tab organizes the entity's past Form 470s by year. Click on a form to go to its Form 470 Details page.
-
-### Form 471s
-*See also: [View Entity 471 History](https://help.broadbandhub.us/view-entity-471-history#viewing-471-data)*
-
-This tab organizes the entity's past Form 471s by year. Click on a form to view its information in a drop-down. Click `View FRN Details` to go to its FRN Details page.
-
-### Budgets
+### C2 Budget
 This page shows the budget information about the entity. The page breaks down the funding into various categories and provides useful graphics to be able to quickly understand the entity's budget. There is a graph that helps better demonstrate the different ways that the money is being processed or used. Under the graphs, there is a Funding Disbursement Timeline that contains a timeline of the entity's past FRNs and their progress of funding. 
 

@@ -5,6 +5,10 @@ permalink: /making-dashboard-widgets
 ---
 
 # {{ page.title }}
+
+This page is antiquated.
+
+<!-- 
 Dashboard Widgets are ways to customize your Dashboard. These are useful to quickly access saved Forms or Entities in user-created Lists.
 
 <br>
@@ -24,3 +28,4 @@ Dashboard Widgets are ways to customize your Dashboard. These are useful to quic
 ### 6. Customize the Widget type, name and width
 
 ### 7. Click Submit when finished editing
+-->

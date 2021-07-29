@@ -7,6 +7,10 @@ permalink: /exporting-entities
 # {{ page.title }}
 <br>
 
+## This page coming soon!
+
+
+<!-- 
 ### 1. Go to [Broadband Hub](https://app.broadbandhub.us/dashboard)
 <br>
 
@@ -34,3 +38,4 @@ ii. Another search bar is in 470, or Entities section on the top of the *"Filter
 
 ### 7. Create a file name for your information and select continue 
 - The file will download to your computer, and you can put it anywhere desired. 
+-->

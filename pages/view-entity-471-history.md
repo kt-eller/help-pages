@@ -18,96 +18,75 @@ There are four ways to get to an entity's Entity Details page:
 
 <br>
 
-### Option 1: Entities Tab
-The easiest way to locate an entity's information is through the Entities tab. This tab is a list of all entities in the database.
+### Option 1: Applicant search
+The easiest way to locate an entity's information is through the Applicant search. This search is a list of all entities in the database.
 Simply locate an entity using the search function and access their Entity Details page.\
 <br>
 **Instructions:**
-1. Click on the Entities tab on the left-hand side of the page
-2. Search for an entity by applying filters
-    - Search term: Search by entity name
-    - Search templates: Use custom templates to search for previously-saved data
-    - Entity is 470 applicant: Filters for entities that are 470 applicants
-    - Entity is 471 applicant: Filters for entities that are 471 (FRN) applicants
-    - States: Limit the search to entities in specific states
-    - Entity types: Limit the search to entities of a specific type
-        - School
-        - School District
-        - Library
-        - Library System
-        - Consortium
-        - Non-Instructional Facility (Nif)
-    - Order By: Personalize the order in which entities appear
-3. Click the Apply Filters button to search for the entity
-4. Click on the desired entity and click on the `View Entity Details` button (bottom-left of dropdown)\
+1. Click on the Applicant search on the left-hand side of the page or open it using **/**
+2. Search for the Applicant by name
+4. Click on the desired entity\
 <br>
 **Go to: Viewing 471 Data**
 
 <br>
 
-### Option 2: Dashboard
-On the Dashboard, you can find saved entities in your `Lists` section.
+### Option 2: My Applicants
+On your My Applicants page, you can find saved entities in your *Lists* section.
 
 <br>
 
-### Option 3: 470 Data
+### Option 3: 470 Search
 It is possible to go to the entity page from a Form 470 Details page.\
 <br>
 **Instructions**
-1. Click on the 470 Data tab on the left-hand side of the page
+1. Click on the 470 search tab on the left-hand side of the page
 2. Search for a Form 470 by applying filters
-    - Search term: Search by Form 470 name
-    - Search templates: Use custom templates to search for previously-saved data
+    - Entity name/number
+    - Application number
+    - Consultant name/number
     - Funding years: Select the years of the form
     - Category of service: Select the type of service asked by the form.
         - Category 1
         - Category 2
         - Category 1&2
     - States: Limit the search to forms from specific states
-    - Entity types: Limit the search to entities of a specific type
-        - School
-        - School District
-        - Library
-        - Library System
-        - Consortium
-        - Non-Instructional Facility (Nif)
     - Dates: Enter date ranges for various fields of the form
-        - Allowable Contract Date
         - Created Date
         - Certified Date
-        -Last Modified
+        - Allowable Contract Date
+        - Last Modified
     - Order By: Personalize the order in which forms appear
-3. Click the Apply Filters button to search for the form
-4. Click on the desired form to go to its form page
-5. Go to the form's Basic Information tab
-6. Locate the Billed Entity card
+3. Click on the *"View"* button to the right of the desired form to go to its form page
+4. Go to the form's Basic Information tab
+5. Locate the Billed Entity card
     - This has the information of the entity that is associated with the form
-7. Click the `View Applicant` link to go to the entity's Entity Details page\
+6. Click the `View Entity` link to go to the entity's Entity Details page\
 <br>
 **Go to: Viewing 471 Data** 
 
 <br>
 
-### Option 4: 471 Data
-It is also possible to go to the entity page from a FRN page, similar to a 470 Details page\
+### Option 4: 471 Search
+It is also possible to go to the entity page from a Form 471 page, similar to a 470 Details page\
 <br>
 **Instructions**
-1. Click on the 471 Data tab on the left-hand side of the page
+1. Click on the 471 search tab on the left-hand side of the page
 2. Search for a Form 471 by applying filters
-    - Search term: Search by Form 471 name
-    - Search templates: Use custom templates to search for previously-saved data
+    - Entity Name/Number
+    - App/FRN Number
+    - Consultant Name/Number
+    - Service provider Name/Number
     - Funding years: Select the years of the form
+     - Funding Status: Select filters for the status of the Form 471
+        - Pending
+        - Funded
+        - Denied
+        - Cancelled
     - Category of service: Select the type of service asked by the form.
         - Category 1
         - Category 2
     - States: Limit the search to forms from specific states
-    - Entity types: Limit the search to entities of a specific type
-        - School
-        - School District
-        - Library
-        - Library System
-        - Consortium
-        - Non-Instructional Facility (Nif)
     - Dates: Enter date ranges for various fields of the form
         - Award Date
         - Extended Expiration Date
@@ -120,25 +99,18 @@ It is also possible to go to the entity page from a FRN page, similar to a 470 D
         - User-generated FCDL Date
         - Revised RCDL Date
         - Last Modified Timestamp
+    - Wave Number
+    - Function type
+    - Purpose type
+    - Special construction
+    - ECF
     - Order By: Personalize the order in which forms appear
-    - Function Type: Filter by type of function being fulfilled by the Form 471
-    - Product Type: Filter by product
-    - Purpose Type: Filter by purpose
-    - Funding Status: Select filters for the status of the Form 471
-        - Pending
-        - Funded
-        - Denied
-        - Cancelled
-    - Special Construction: Toggle if there is special construction necessary for the Form 471
-    - Service Provider Name: Search for Form 471s by Service Provider
-    - Service Provider Number: Search for Form 471s by Service Number
-3. Click the Apply Filters button to search for the form
-4. Click on the desired form to view its basic information in a drop-down
-5. Click `View FRN Details` to be taken to the FRN page
-6. Go to the FRN's Basic Information tab
-7. Locate the Billed Entity card
+3. Click on the desired form to view its basic information in a drop-down
+4. Click `View FRN Details` to be taken to the FRN page
+5. Go to the FRN's Basic Information tab
+6. Locate the Billed Entity card
     - This has the information of the entity that is associated with the form
-8. Click the `View Applicant` link to go to the entity's Entity Details page\
+7. Click the `View Entity` link to go to the entity's Entity Details page\
 
 <br>
 

@@ -10,13 +10,13 @@ permalink: /create-an-account
 ## 1. Open [Broadband Hub](https://app.broadbandhub.us/login)
 <br>
 
-## 2. Select *"Create an Account"*
+## 2. Select *"Register"*
 <br>
 
-## 3. Fill in your e-mail and create a password, then click *"Submit"*
+## 3. Fill in your name, e-mail, and create a password, then click *"Submit"*
 <br>
 
-## 4. Fill out your full name and update the profile picture, then click *"Next"*
+## 4. Fill out your dipslay name and update the profile picture, then click *"Next"*
 <br>
 
 ## 5. Enter organization code or make New Organization

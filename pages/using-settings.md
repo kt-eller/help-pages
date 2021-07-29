@@ -14,7 +14,6 @@ The Profile page contains:
 - Display name
 - Public email
 - Profile picture
-- Logout
 
 ### Billings & plans
 

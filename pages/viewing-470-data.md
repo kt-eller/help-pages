@@ -12,37 +12,30 @@ Viewing Form 470 and Form 471 data is one of the major advantages of BroadbandHu
 Locate the 470 Form that you're looking for by using BroadbandHub's Form 470 Data search page. Multiple available search filters can help narrow down your search. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
 <br>
 **Search Instructions**
-1. Click on *"Form 470 Data"* from the side navigator
+1. Click on the 470 search tab on the left-hand side of the page
 2. Search for a Form 470 by applying filters
-    - Search term: Search by Form 470 name
-    - Search templates: Use custom templates to search for previously-saved data
+    - Entity name/number
+    - Application number
+    - Consultant name/number
     - Funding years: Select the years of the form
     - Category of service: Select the type of service asked by the form.
         - Category 1
         - Category 2
         - Category 1&2
     - States: Limit the search to forms from specific states
-    - Entity types: Limit the search to entities of a specific type
-        - School
-        - School District
-        - Library
-        - Library System
-        - Consortium
-        - Non-Instructional Facility (Nif)
     - Dates: Enter date ranges for various fields of the form
-        - Allowable Contract Date
         - Created Date
         - Certified Date
-        -Last Modified
+        - Allowable Contract Date
+        - Last Modified
     - Order By: Personalize the order in which forms appear
-3. Click the Apply Filters button to search for the form
 
 **Finding the Form 470**\
 After applying filters, the search function will display a list of Form 470s that best suit the filters.
 The list displays important information to allow for quick viewing and selection.
 - Category of Service
 - State
-- Funding Year
+- Application Number
 - Applicant
 - Form Nickname
 - Allowable Contract Date
