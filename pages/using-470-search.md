@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Working with 470 Data
-permalink: /working-with-470-data
+title: Using 470 Search
+permalink: /using-470-search
 ---
 
 # {{ page.title }}
@@ -11,7 +11,7 @@ Learning to use the Form 470 search page is important to quickly find the desire
 <br>
 
 ## Using the Form 470 Search Page
-The first step is to locate the 470 Form that you're looking for. You can do this by using BroadbandHub's Form 470 Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
+The first step is to locate the 470 Form that you're looking for. You can do this by using BroadbandHub's Form 470 search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with [Region](https://help.broadbandhub.us/creating-regions) and [Template](https://help.broadbandhub.us/creating-templates) features, allowing a user to save their preferences for future searches.\
 <br>
 **Search Instructions**
 1. Click on the 470 search tab on the left-hand side of the page
@@ -41,10 +41,10 @@ The list displays important information to allow for quick viewing and selection
 - Applicant
 - Form Nickname
 - Allowable Contract Date
-- Created Date
+- Certified Date
 - RFPs
 
-Look for the desired form and click on it to go to its Form 470 Page.
+Look for the desired form and click on the View button on the right to go to its Form 470 Page.
 
 ## Search by Region
 *See also: [Creating Regions](https://help.broadbandhub.us/creating-regions)*

@@ -8,7 +8,7 @@ permalink: /logging-in
 <br>
 
 ## Getting Started 
-Before logging in, make sure that there is an account already created. If not, visit our [Create an account](https://broadband-hub.github.io/help-pages/create-an-account) page to start.
+Before logging in, make sure that there is an account already created. If not, visit our [Create an account](https://broadband-hub.github.io/help-pages/create-an-account) page to get started.
 
 <br>
 

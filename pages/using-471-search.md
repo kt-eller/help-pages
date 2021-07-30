@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Working with 471 Data
-permalink: /working-with-471-data
+title: Using 471 Search
+permalink: /using-471-search
 ---
 
 # {{ page.title }}
@@ -11,7 +11,7 @@ Learning to use the Form 471 search page is important to quickly find the desire
 <br>
 
 ## Using the Form 471 Data Search Page
-The first step is to locate the 471 Form that you're looking for. You can do this by using BroadbandHub's 471 Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
+The first step is to locate the 471 Form that you're looking for. You can do this by using BroadbandHub's 471 Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with [Region](https://help.broadbandhub.us/creating-regions) and [Template](https://help.broadbandhub.us/creating-templates) features, allowing a user to save their preferences for future searches.\
 <br>
 **Search Instructions**
 1. Click on the 471 search tab on the left-hand side of the page
@@ -21,7 +21,7 @@ The first step is to locate the 471 Form that you're looking for. You can do thi
     - Consultant Name/Number
     - Service provider Name/Number
     - Funding years: Select the years of the form
-     - Funding Status: Select filters for the status of the Form 471
+    - Funding Status: Select filters for the status of the Form 471
         - Pending
         - Funded
         - Denied
@@ -44,6 +44,7 @@ The first step is to locate the 471 Form that you're looking for. You can do thi
         - Last Modified Timestamp
     - Wave Number
     - Function type
+    - Product Type
     - Purpose type
     - Special construction
     - ECF
@@ -75,9 +76,8 @@ Look for the desired form and click on it to view its basic information in a dro
     - Monthly Costs
     - One-Time Costs
     - Total Disbursement Amount
-- Tags
 
-To view the FRN Details page for even more information, click on the `View FRN Details` link at the bottom-left of the drop-down.
+To view the FRN Details page for even more information, click on the *View FRN Details* link at the bottom-left of the drop-down.
 
 <br>
 

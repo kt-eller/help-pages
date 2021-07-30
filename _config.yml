@@ -30,9 +30,9 @@ sass:
 #url: "https://help.broadbandhub.us" # the base hostname & protocol for your site, e.g. http://example.com
 
 algolia:
-  application_id: IC99B3YK4G
-  index_name: pages
-  search_only_api_key: 7858214ee7bd176eb09488ee19d0810a
+  application_id: HLU1QGD569
+  index_name: help-pages
+  search_only_api_key: 9cc5931ec3cdcc40678bfd02599aa506
 
 
 # Exclude from processing.

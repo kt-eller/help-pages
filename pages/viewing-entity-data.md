@@ -5,19 +5,21 @@ permalink: /viewing-entity-data
 ---
 
 # {{ page.title }}
-Viewing Entity data is one of the major advantages of BroadbandHub. Using a modern design, BroadbandHub has optimized the process to make the information easier to view and understand. This page will help you locate specific Form 470s and navigate their details page to streamline your data collection.\
+Viewing Entity data is one of the major advantages of BroadbandHub. Using a modern design, BroadbandHub has optimized the process to make the information easier to view and understand. This page will help you locate specific Applicants and navigate their details page to streamline your data collection.\
 <br>
 
 ## Finding the Entity Page
-The first step is to locate the Entity that you're looking for. You can do this by using BroadbandHub's Entity Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
+The first step is to locate the Entity that you're looking for. You can do this by using BroadbandHub's Applicant search menu.\
 <br>
+
 **Search Instructions**
 1. Click on the Applicant search on the left-hand side of the page or open it using **/**
 2. Search for the Applicant by name
-4. Click on the desired entity\
+4. Click on the desired entity
 
-**Finding the Entity**\
-After applying filters, the search function will display a list of entities that best suit the filters.
+**Finding the Entity**
+
+The search function will display a list of entities that best suit the search query.
 The list displays important information to allow for quick viewing and selection. Click on the entity you wish to research.
 
 <br>
@@ -67,7 +69,7 @@ Basic Information Contains:
     - School Type
 
 ### Form 470s
-This tab organizes the entity's past Form 470s by year. Click on a form to go to its Form 470 Details page.
+This tab organizes the entity's past Form 470s by year. Click *View* a form to go to its Form 470 Details page.
 
 ### Form 471s
 *See also: [View Entity 471 History](https://help.broadbandhub.us/view-entity-471-history#viewing-471-data)*
@@ -75,7 +77,7 @@ This tab organizes the entity's past Form 470s by year. Click on a form to go to
 This tab organizes the entity's past Form 471s by year. Click on a form to view its information in a drop-down. Click `View FRN Details` to go to its FRN Details page.
 
 ### Entities
-The Entities page is the place to see the other entities associated with the main Entity. This includes a list of child entities and a map to show the location of each entity.
+The Entities page is the place to see the other entities associated with the main Entity, such as their child entities.
 
 - Child Entities
     - List of child entities of the organization.
@@ -86,8 +88,7 @@ The Entities page is the place to see the other entities associated with the mai
         - Full Time Students
         - Address
     - Click on an entity to view a list of that entity's child entities.
-        - Click `Export Entity Map` to download its map.
-        - Click `View Entity Details` to go to its Entity page.
+        - Click *View* to go to its Entity page.
     
 ### Contacts
 This tab lists the contacts that are given in the Form 470 and 471 that have been submitted by the entity.

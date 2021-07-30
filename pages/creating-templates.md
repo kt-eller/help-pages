@@ -5,7 +5,7 @@ permalink: /creating-templates
 ---
 
 # {{ page.title }}
-Templates are a great way to easily filter your searches. Form 470 data, form 471 data and Entity data, all feature the Template ability.  Templates allow you to declare which fields you're interested in researching and limit your searches to prevent unncessary data from cluttering search results. Templates are saved to your account to allow you to quickly search the same queries. If you create a search that you enjoy, you can quickly save that search as a search template by clicking the *+* at the top of the screen.
+Templates are a great way to easily filter your searches. The Form 470 search and Form 471 search both feature the Template feature. Templates allow you to declare which fields you're interested in researching and limit your searches to prevent unncessary data from cluttering search results. Templates are saved to your account to allow you to quickly search the same queries every time. If you create a search that you enjoy, you can quickly save that search as a search template by clicking the "+" at the top of the screen and giving it a name. You can also share templates with users in your organization through the click of a button.
 
 <br>
 

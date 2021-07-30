@@ -5,11 +5,11 @@ permalink: /viewing-frn-data
 ---
 
 # {{ page.title }}
-Viewing Form 470 and Form 471 (FRN) data is one of the major advantages of BroadbandHub. Using a modern design, BroadbandHub has optimized the process to make the information easier to view and understand. This page will help you locate specific Form 470s and navigate their details page to streamline your data collection.\
+Viewing Form 470 and Form 471 (FRN) data is one of the major advantages of BroadbandHub. Using a modern design, BroadbandHub has optimized the process to make the information easier to view and understand. This page will help you locate specific Form 471s and navigate their details page to streamline your data collection.\
 <br>
 
 ## Finding the FRN Page
-The first step is to locate the 471 Form that you're looking for. You can do this by using BroadbandHub's 471 Data search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
+The first step is to locate the 471 Form that you're looking for. You can do this by using BroadbandHub's 471 search page. This page has many filters allowing for quick location of the desired forms. BroadbandHub also comes equiped with [Region](https://help.broadbandhub.us/creating-regions) and [Template](https://help.broadbandhub.us/creating-templates) features, allowing a user to save their preferences for future searches.\
 <br>
 **Search Instructions**
 1. Click on the 471 search tab on the left-hand side of the page
@@ -19,7 +19,7 @@ The first step is to locate the 471 Form that you're looking for. You can do thi
     - Consultant Name/Number
     - Service provider Name/Number
     - Funding years: Select the years of the form
-     - Funding Status: Select filters for the status of the Form 471
+    - Funding Status: Select filters for the status of the Form 471
         - Pending
         - Funded
         - Denied
@@ -42,6 +42,7 @@ The first step is to locate the 471 Form that you're looking for. You can do thi
         - Last Modified Timestamp
     - Wave Number
     - Function type
+    - Product Type
     - Purpose type
     - Special construction
     - ECF
@@ -74,7 +75,7 @@ Look for the desired form and click on it to view its basic information in a dro
     - One-Time Costs
     - Total Disbursement Amount
 
-To view the FRN Details page for even more information, click on the `View FRN Details` link at the bottom-left of the drop-down.
+To view the FRN Details page for even more information, click on the *View FRN Details* link at the bottom-left of the drop-down.
 
 <br>
 
@@ -85,62 +86,68 @@ The FRN Page is the optimal place to quickly view key information about the FRN.
 The Basic Information tab is the place to view the information about the form and the entity that filed the request.
 
 Basic Information contains:
-- FRN Details
+- Application Information
     - Displays basic information of the FRN.
-    - Funding Year
-    - Status
-    - Category of Service
-    - Service Type
-    - Nickname
+        - Form 470
+        - Form 471
+        - Funding Year
+        - Status
+        - Category of Service
+        - Service Type
+        - Nickname
 - Billed Entity
     - Displays the information about the entity that filed the Form 470 and FRN.
-    - Name
-    - Address
-    - Phone Number
-    - Billed Entity Number
-    - FCC Registration Number
+        - Name
+        - Address
+        - Phone Number
+        - Billed Entity Number
+        - FCC Registration Number
 - Service Provider Details
     - Details about the contracted service provider.
-    - Service Provider Name
-    - Service Provider Number
+        - Service Provider Name
+        - Service Provider Number
 - Forms
     - List of forms connected to the FRN. Contains a link to the associated Form 470.
-    - Form 470
-    - Form 471
+        - Form 470
+        - Form 471
 - Costs
     - Displays Reuqested and Committed of the costs associated with the FRN.
-    - Total Cost
-    - Funding Commitment Request
-    - Discount Percentage
-    - Total Disbursement Amount
+        - Total Cost
+        - Funding Commitment Request
+        - Discount Percentage
+        - Total Disbursement Amount
 - Narratives
     - Shows the narratives.
 - Dates
     - Dates of important information given in the FRN.
-    - Contract Award Date
-    - 486 Start Date
-    - 471 Start Date
-    - Wave Date
-    - FCDL Date
-    - Date User Generated FCDL
-    - Revised FCDL Date
-    - Service Delivery Deadline
-    - Last Date to Invoice
-    - Contract Expiration Date
-    - Extended Contract Expiration Date
+        - Contract Award Date
+        - 486 Start Date
+        - 471 Start Date
+        - Wave Date
+        - FCDL Date
+        - Date User Generated FCDL
+        - Revised FCDL Date
+        - Service Delivery Deadline
+        - Last Date to Invoice
+        - Contract Expiration Date
+        - Extended Contract Expiration Date
 - Additional Information
     - Other information that may be useful.
-    - Invoicing Mode
-    - Wave Sequence Number
-    - Appeal Wave Number
-    - Billing Account Number
-    - Remaining Contract Extension
-    - Total Remaining Contract Length
+        - Invoicing Mode
+        - Wave Sequence Number
+        - Appeal Wave Number
+        - Billing Account Number
+        - Remaining Contract Extension
+        - Total Remaining Contract Length
 - Fiber Request Key Information
     - Information about the Fiber requested.
-    - Fiber Type
-    - Fiber Sub Type
-    - Equipment Leased
+        - Fiber Type
+        - Fiber Sub Type
+        - Equipment Leased
+- Contacts
+    - Contacts of the person who files the Form 471
+        - Authorized Person
+        - Main Contact
 
 ### Disbursements
 Timeline of the FRN's money disbursement.
@@ -149,6 +156,8 @@ Timeline of the FRN's money disbursement.
 Displays the Consultants listed on the FRN.
 
 ### Documents
+*See also: [Finding Documents](https://help.broadbandhub.us/finding-documents)*
+
 This tab contains the document from the official USAC website. This is useful for people and organizations that want to see information that is not selected as really important by BroadbandHub. This tab also includes the RFPs and Associated Form 471 Documents for Form 470 applications that have already been decided.
 
 Documents Contains:

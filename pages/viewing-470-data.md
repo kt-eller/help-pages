@@ -9,7 +9,7 @@ Viewing Form 470 and Form 471 data is one of the major advantages of BroadbandHu
 <br>
 
 ## Finding the Form 470 Page
-Locate the 470 Form that you're looking for by using BroadbandHub's Form 470 Data search page. Multiple available search filters can help narrow down your search. BroadbandHub also comes equiped with Region and Template features, allowing a user to save their preferences for future searches.\
+Locate a Form 470 by using BroadbandHub's Form 470 Data search page. Multiple available search filters can help narrow down your search. BroadbandHub also comes equiped with [Region](https://help.broadbandhub.us/creating-regions) and [Template](https://help.broadbandhub.us/creating-templates) features, allowing a user to save their preferences for future searches.\
 <br>
 **Search Instructions**
 1. Click on the 470 search tab on the left-hand side of the page
@@ -42,7 +42,7 @@ The list displays important information to allow for quick viewing and selection
 - Certified Date
 - RFPs
 
-Look for the desired form and click on it to go to its Form 470 Page.
+Look for the desired form and click on the View button on the right to go to its Form 470 Page.
 
 <br>
  
@@ -53,48 +53,65 @@ The Form 470 Page is the optimal place to quickly view key information about the
 The Basic Information tab is the place to view the information about the form and the entity that filed the request. It also shows the Form 470 application number.
 
 Basic Information contains:
-- Application Number
+- Application Information
     - Displays basic information about the Form 470.
-    - Application number
-    - Year
-    - Form type
+        - Application number
+        - Nickname
+        - Funding Year
+        - Category of Service
+        - Applicant Type
+        - Number of Eligible Entities
+        - Certified Timestamp
+        - Certified By
 - Billed Entity
     - Displays the information about the entity that filed the request.
-    - Entity Name
-    - Entity Address
-    - Entity Phone Number
-    - Billed Entity Number
-    - FCC Registration Number
+        - Entity Name
+        - Entity Number
+        - Entity Type
+        - FCC Registration Number
+        - Email
+        - Phone
+        - Address
+        - City
+        - State
+        - Zipcode
+        - Website
 - Contact Information
     - Information for the entity's primary contact.
-    - Name
-    - Email
-    - Contact Phone Number
+        - Name
+        - Email
+        - Phone
+        - Address 1
+        - Address 2
+        - City
+        - State
+        - Zipcode
 - Technical Contact
     - Information for the entity's technical contact.
-    - Name
-    - Position
-    - Technical Contact Phone Number
-    - Email
+        - Name
+        - Title
+        - Email
+        - Phone
 - Authorized Person
     - Information about the person authorized in the form.
-    - Name
-    - Address
-    - Phone Number
-    - Email
-- Application Type
-    - Displays information about the type of application of the Form 470.
-    - Applicant Type
-    - Number of Eligible Entities
-- Certified Timestamp
-    - Time of form certification.
+        - Name
+        - Title
+        - Employer
+        - Email
+        - Phone
+        - Address
+        - City
+        - State
+        - Zipcode
 - State and Local Procurement Restrictions
     - Yes/No
 
 ### Consultants
-Displays the Consultants listed on the Form 470.
+Displays the Consultants listed on the Form 470 and their basic information, like name, email, phone, and address.
 
 ### Documents
+*See also: [Finding Documents](https://help.broadbandhub.us/finding-documents)*
+
 This tab contains the document from the official USAC website. This is useful for people and organizations that want to see information that is not selected as really important by BroadbandHub. This tab also includes the RFPs and Associated Form 471 Documents for Form 470 applications that have already been decided.
 
 Documents contains:
@@ -108,7 +125,7 @@ Documents contains:
     - Click `View Document` to go to the official USAC website and view the Original Form 471.
 
 ### Category 1 & Category 2
-These tabs display the information of Service Requests and Narrative given in the Form 470 data. If a Form 470 is only a Category 1 or Category 2, there will not be information listed in the other category. These lists describe the services that each entity is looking to fulfill, making it useful for service providers to quickly view important information about the Form 470. Each Category has different Service Requests information given.
+These tabs display the information of Service Requests and Narrative given in the Form 470 data. If a Form 470 is only a Category 1 or Category 2, there will not be information listed in the other category. These lists describe the services that each entity is looking to fulfill, making it useful for users to quickly view important information about the Form 470. Each Category has different Service Requests information given.
 
 **Category 1**
 - Service Type

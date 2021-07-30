@@ -23,11 +23,11 @@ The easiest way to locate an entity's information is through the Applicant searc
 Simply locate an entity using the search function and access their Entity Details page.\
 <br>
 **Instructions:**
-1. Click on the Applicant search on the left-hand side of the page or open it using **/**
-2. Search for the Applicant by name
+1. Click on the Applicant search on the left-hand side of the page or open it typing "**/**"
+2. Search for the Applicant by name or number
 4. Click on the desired entity\
 <br>
-**Go to: Viewing 471 Data**
+**Go to: [Viewing 471 Data](https://help.broadbandhub.us/view-entity-471-history#viewing-471-data)**
 
 <br>
 
@@ -63,7 +63,7 @@ It is possible to go to the entity page from a Form 470 Details page.\
     - This has the information of the entity that is associated with the form
 6. Click the `View Entity` link to go to the entity's Entity Details page\
 <br>
-**Go to: Viewing 471 Data** 
+**Go to: [Viewing 471 Data](https://help.broadbandhub.us/view-entity-471-history#viewing-471-data)** 
 
 <br>
 
@@ -110,7 +110,7 @@ It is also possible to go to the entity page from a Form 471 page, similar to a 
 5. Go to the FRN's Basic Information tab
 6. Locate the Billed Entity card
     - This has the information of the entity that is associated with the form
-7. Click the `View Entity` link to go to the entity's Entity Details page\
+7. Click the `View Entity` link to go to the entity's Entity Details page
 
 <br>
 
@@ -158,8 +158,8 @@ FRN View is a simple list way to view Form 471 data. It shows the basic informat
 For each Form 471 you can see:
 - Category of Service
 - Status
-- State
-- Funding Year
+- Application Number
+- FRN Number
 - Service Type
 - Service Provider
 - Discount
@@ -167,20 +167,6 @@ For each Form 471 you can see:
 - Contract Expiration
 
 Clicking on a Form 471 creates a drop-down that displays more information about that FRN. Clicking on a FRN in the list creates a drop-down with that FRN's information and a link to its FRN page, where you can navigate to see more specific information about the FRN.
-
-<br>
-
-### Summary View
-Summary View is the simplest way to view Form 471 data. It shows each year's overall numbers, allowing you to quickly understand an entity's utilization of money.\
-<br>
-For each funding year you can see:
-- The number of requests
-- The amounts of money:
-    - Original Request
-    - Current Commitment
-    - Total Disbursement
-    - Remaining Balance
-- Utilization percentage of the remaining balance
 
 <br>
 <br>
